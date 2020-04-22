@@ -1,4 +1,4 @@
-/* Author      : Rob Collins
+/* Author      : Mike Shillabeer
    Version     : 15
    Description : Simple ventilator controller providing a simple human interface for Respiratory Rate, I.E. Ratio and Tidal volume
                  Ventilator control cycle runs from a timer interrupt .. enabling control parameters to be changed whilst the controler
